@@ -174,6 +174,7 @@ function sendPresenceList(room) {
     if (info) users.push({ username, name: info.name || username, room: info.room, status: 'online', onlineAt: new Date().toISOString() });
   }
   const msg = JSON.stringify({ type: 'presence:list', room, users });
+  console.log(`[PRESENCE] sendPresenceList room=${room} users=${users.length} -> ${users.map(u => u.username).join(',')}`);
   for (const [_, ws] of clients) {
     if (ws.readyState === 1) ws.send(msg);
   }
