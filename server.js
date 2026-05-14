@@ -155,11 +155,12 @@ const lastCommands = new Map();   // path -> { text, timestamp }
 const userSockets = new Map();    // ws -> { username, room, name, authenticated, token }
 const roomUsers = new Map();      // room -> Map<username, ws>
 
-function broadcast(room, data) {
+function broadcast(room, data, excludeWs) {
   const clients = roomUsers.get(room);
   if (!clients) return;
   const msg = JSON.stringify(data);
   for (const [_, ws] of clients) {
+    if (ws === excludeWs) continue;
     if (ws.readyState === 1) ws.send(msg);
   }
 }
@@ -170,7 +171,7 @@ function sendPresenceList(room) {
   const users = [];
   for (const [username, ws] of clients) {
     const info = userSockets.get(ws);
-    if (info) users.push({ username, name: info.name || username, room: info.room });
+    if (info) users.push({ username, name: info.name || username, room: info.room, status: 'online', onlineAt: new Date().toISOString() });
   }
   const msg = JSON.stringify({ type: 'presence:list', room, users });
   for (const [_, ws] of clients) {
@@ -210,8 +211,8 @@ wss.on('connection', (ws) => {
         if (!roomUsers.has(room)) roomUsers.set(room, new Map());
         roomUsers.get(room).set(info.username, ws);
         sendPresenceList(room);
-        // Send last command if any
-        if (lastCommands.has(room)) {
+        // Send last command to user only (not admin — admin doesn't need replay of own commands)
+        if (lastCommands.has(room) && info.type !== 'admin') {
           ws.send(JSON.stringify({ type: 'command', path: room, ...lastCommands.get(room) }));
         }
         ws.send(JSON.stringify({ type: 'ok' }));
@@ -235,7 +236,7 @@ wss.on('connection', (ws) => {
         if (!cmdPath) return ws.send(JSON.stringify({ type: 'error', message: 'Thiếu path' }));
         const data = { text: msg.text || '', timestamp: new Date().toISOString() };
         lastCommands.set(cmdPath, data);
-        broadcast(cmdPath, { type: 'command', path: cmdPath, ...data });
+        broadcast(cmdPath, { type: 'command', path: cmdPath, ...data }, ws);
         ws.send(JSON.stringify({ type: 'ok' }));
         break;
       }
