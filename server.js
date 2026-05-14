@@ -171,7 +171,7 @@ function sendPresenceList(room) {
   const users = [];
   for (const [username, ws] of clients) {
     const info = userSockets.get(ws);
-    if (info) users.push({ username, name: info.name || username, room: info.room, status: 'online', onlineAt: new Date().toISOString() });
+    if (info && info.type !== 'admin') users.push({ username, name: info.name || username, room: info.room, status: 'online', onlineAt: new Date().toISOString() });
   }
   const msg = JSON.stringify({ type: 'presence:list', room, users });
   console.log(`[PRESENCE] sendPresenceList room=${room} users=${users.length} -> ${users.map(u => u.username).join(',')}`);
