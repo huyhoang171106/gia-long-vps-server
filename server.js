@@ -247,6 +247,14 @@ wss.on('connection', (ws) => {
         break;
       }
 
+      case 'heartbeat': {
+        const hbRoom = msg.path || info.room;
+        if (hbRoom) {
+          sendPresenceList(hbRoom);
+        }
+        break;
+      }
+
       default:
         ws.send(JSON.stringify({ type: 'error', message: 'Unknown type' }));
     }
