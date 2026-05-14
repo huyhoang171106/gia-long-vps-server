@@ -212,10 +212,6 @@ wss.on('connection', (ws) => {
         if (!roomUsers.has(room)) roomUsers.set(room, new Map());
         roomUsers.get(room).set(info.username, ws);
         sendPresenceList(room);
-        // Send last command to user only (not admin — admin doesn't need replay of own commands)
-        if (lastCommands.has(room) && info.type !== 'admin') {
-          ws.send(JSON.stringify({ type: 'command', path: room, ...lastCommands.get(room) }));
-        }
         ws.send(JSON.stringify({ type: 'ok' }));
         break;
       }
