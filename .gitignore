@@ -3,5 +3,3 @@ data.db
 data.db-wal
 data.db-shm
 .env
-User.json
-Admin.json

@@ -1,0 +1,1582 @@
+[
+  {
+    "_id": "0hNATWccm1l6315zdXIO",
+    "_created": "2026-04-30T11:53:46.416546Z",
+    "_updated": "2026-04-30T12:06:52.044882Z",
+    "pass": "loitv123",
+    "sdt": "0915033950",
+    "tentk": "tloideptrai",
+    "permisson": "1",
+    "hoten": "nguyễn tấn lợi"
+  },
+  {
+    "_id": "0tHFMyIwRcK0PRlgYsU1",
+    "_created": "2026-05-04T13:19:23.387703Z",
+    "_updated": "2026-05-04T13:20:06.151151Z",
+    "tentk": "Amber2e",
+    "pass": "a123123",
+    "sdt": "0998689884",
+    "hoten": "Amber",
+    "permisson": "1"
+  },
+  {
+    "_id": "0zXjPAYcQvk5QBCVZoPO",
+    "_created": "2026-05-03T06:00:04.090039Z",
+    "_updated": "2026-05-03T06:00:04.090039Z",
+    "hoten": "Trần Tuấn Anh",
+    "permisson": "0",
+    "pass": "Tuananh75",
+    "sdt": "0362292594",
+    "tentk": "Tuananh1975"
+  },
+  {
+    "_id": "16LsfCcgA4QKQjTuDzVL",
+    "_created": "2026-04-30T11:04:46.369145Z",
+    "_updated": "2026-04-30T11:07:27.905182Z",
+    "hoten": "lehoanghung",
+    "permisson": "1",
+    "pass": "datdepzai0",
+    "sdt": "0829663727",
+    "tentk": "lehoanghung"
+  },
+  {
+    "_id": "17ECuwIfa6DVtTpwaEZv",
+    "_created": "2026-05-02T10:45:34.129659Z",
+    "_updated": "2026-05-02T10:45:34.129659Z",
+    "pass": "phan4790",
+    "sdt": "0397806490",
+    "tentk": "phan479",
+    "permisson": "0",
+    "hoten": "phanvu"
+  },
+  {
+    "_id": "1MNAepyB5Oci9uk8XryF",
+    "_created": "2026-05-04T15:37:13.220432Z",
+    "_updated": "2026-05-05T04:41:16.556304Z",
+    "tentk": "huynhvo1993",
+    "pass": "vanvo545811",
+    "sdt": "0869545811",
+    "hoten": "huynh van vo",
+    "permisson": "1"
+  },
+  {
+    "_id": "1PpirYKrm2cvcYEDxC42",
+    "_created": "2026-05-14T01:50:48.320543Z",
+    "_updated": "2026-05-14T01:50:48.320543Z",
+    "sdt": "0326628594",
+    "pass": "12345",
+    "tentk": "quanghung",
+    "hoten": "quanghung",
+    "permisson": "0"
+  },
+  {
+    "_id": "1Qdv2CZZLptzKhaPyic2",
+    "_created": "2026-05-02T07:21:51.597781Z",
+    "_updated": "2026-05-02T07:23:10.911476Z",
+    "hoten": "lê vi tiến",
+    "permisson": "1",
+    "tentk": "tienbip88",
+    "pass": "tienbip88@",
+    "sdt": "0365818314"
+  },
+  {
+    "_id": "28jMmIsUSKcNNwxasGLK",
+    "_created": "2026-05-06T13:21:07.764787Z",
+    "_updated": "2026-05-06T13:21:07.764787Z",
+    "tentk": "Phạm Thanình",
+    "pass": "phamquynhchi",
+    "sdt": "0325616684",
+    "hoten": "phạm Thanh bình",
+    "permisson": "0"
+  },
+  {
+    "_id": "2fDPpCs5g8EN7Z02h7Cn",
+    "_created": "2026-05-05T07:41:13.978853Z",
+    "_updated": "2026-05-05T07:41:13.978853Z",
+    "hoten": "hoang gia long",
+    "permisson": "0",
+    "tentk": "gialong",
+    "sdt": "0909888999",
+    "pass": "123456"
+  },
+  {
+    "_id": "4uj9tkrh7dlVWLCr9Uck",
+    "_created": "2026-05-06T15:18:17.732900Z",
+    "_updated": "2026-05-06T15:18:17.732900Z",
+    "sdt": "0345856171",
+    "pass": "MinhTug2005",
+    "tentk": "minhtung21",
+    "permisson": "0",
+    "hoten": "Nguyễn MinhTung"
+  },
+  {
+    "_id": "5xldvgjZH7VKJa6mkhOf",
+    "_created": "2026-05-07T15:30:58.806120Z",
+    "_updated": "2026-05-07T15:32:32.737285Z",
+    "tentk": "thien240571a",
+    "sdt": "0937431848",
+    "pass": "Naan1102",
+    "permisson": "1",
+    "hoten": "MAI XUAN THIEN"
+  },
+  {
+    "_id": "5zi7hA2eyxsr7q3COHiy",
+    "_created": "2026-05-03T15:45:19.477691Z",
+    "_updated": "2026-05-03T15:45:19.477691Z",
+    "tentk": "namgiang",
+    "sdt": "0326590748",
+    "pass": "200109",
+    "permisson": "0",
+    "hoten": "quang giang nam"
+  },
+  {
+    "_id": "60Y7np7KcdZbtCsq8ajI",
+    "_created": "2026-05-08T14:17:54.190460Z",
+    "_updated": "2026-05-08T14:20:25.060455Z",
+    "permisson": "1",
+    "hoten": "Nguyễn Văn Xung",
+    "pass": "123123",
+    "sdt": "0947556345",
+    "tentk": "xuka999"
+  },
+  {
+    "_id": "6F73VbCTNzLXEDLhRhe8",
+    "_created": "2026-05-09T12:52:58.642335Z",
+    "_updated": "2026-05-09T12:52:58.642335Z",
+    "pass": "090987",
+    "sdt": "0862003910",
+    "tentk": "phuongckip8x",
+    "permisson": "0",
+    "hoten": "nguyen van phuong"
+  },
+  {
+    "_id": "6QERA0Gp0M0aGLkfJyXB",
+    "_created": "2026-05-05T01:28:30.997276Z",
+    "_updated": "2026-05-05T01:29:06.495705Z",
+    "permisson": "1",
+    "hoten": "tran van teo",
+    "sdt": "0986457946",
+    "pass": "longbi",
+    "tentk": "longbi"
+  },
+  {
+    "_id": "6tIsK10QYFSv3FNEIF5r",
+    "_created": "2026-05-01T18:19:38.055850Z",
+    "_updated": "2026-05-01T18:19:38.055850Z",
+    "pass": "qhuy32211",
+    "sdt": "0978670954",
+    "tentk": "qhuy3232",
+    "hoten": "HO A QUI",
+    "permisson": "0"
+  },
+  {
+    "_id": "6yCqzXRW7gsFzLCiqQ4b",
+    "_created": "2026-05-06T05:27:17.387471Z",
+    "_updated": "2026-05-06T05:27:17.387471Z",
+    "sdt": "0919195647",
+    "pass": "trung123",
+    "tentk": "Giap86",
+    "hoten": "la the anh giap",
+    "permisson": "0"
+  },
+  {
+    "_id": "7Ch1Nf37MRV2KGMsnnUp",
+    "_created": "2026-05-04T09:32:47.989486Z",
+    "_updated": "2026-05-04T09:32:47.989486Z",
+    "hoten": "pham nguyen my duyen",
+    "permisson": "0",
+    "tentk": "myduyen1234",
+    "sdt": "0347578941",
+    "pass": "MyDuyen678097"
+  },
+  {
+    "_id": "7Hzjp8ehTqLJGsJdd3uI",
+    "_created": "2026-04-29T06:58:10.364575Z",
+    "_updated": "2026-04-29T06:59:49.307261Z",
+    "tentk": "tes11",
+    "sdt": "0374897652",
+    "pass": "tes11",
+    "permisson": "1",
+    "hoten": "tran thi thuy"
+  },
+  {
+    "_id": "7XqpAfCZFt8q1eT7MoiR",
+    "_created": "2026-05-03T07:38:31.013323Z",
+    "_updated": "2026-05-03T07:39:46.219228Z",
+    "hoten": "hskskn",
+    "permisson": "1",
+    "sdt": "0335469139",
+    "pass": "Tien1234",
+    "tentk": "tedan2e"
+  },
+  {
+    "_id": "7d5PntUZ6anuicuY1DMF",
+    "_created": "2026-05-06T10:50:58.470113Z",
+    "_updated": "2026-05-06T11:06:18.386373Z",
+    "permisson": "1",
+    "hoten": "NGUYEN CONG TOAN",
+    "sdt": "0342336849",
+    "pass": "trmi137211",
+    "tentk": "trmi137211"
+  },
+  {
+    "_id": "8hRyGmlm5cQn1yj2PxlI",
+    "_created": "2026-05-04T06:24:04.344211Z",
+    "_updated": "2026-05-04T06:25:23.391094Z",
+    "hoten": "Lê Thị Kim Loan",
+    "permisson": "1",
+    "pass": "240879",
+    "sdt": "0902765718",
+    "tentk": "kimloan"
+  },
+  {
+    "_id": "9ScFZdpTlZhvxMhA4cEG",
+    "_created": "2026-05-04T09:32:47.890665Z",
+    "_updated": "2026-05-04T09:32:47.890665Z",
+    "permisson": "0",
+    "hoten": "pham nguyen my duyen",
+    "tentk": "myduyen1234",
+    "sdt": "0347578941",
+    "pass": "MyDuyen678097"
+  },
+  {
+    "_id": "B4j2TEWkPot4uKeWvtpj",
+    "_created": "2026-05-06T06:21:40.532017Z",
+    "_updated": "2026-05-06T06:49:29.308688Z",
+    "hoten": "Trần Văn Thủy",
+    "permisson": "1",
+    "tentk": "monne112",
+    "pass": "monne113",
+    "sdt": "0369390714"
+  },
+  {
+    "_id": "BIaYXm40mKXcGissmvoU",
+    "_created": "2026-05-04T15:15:57.311805Z",
+    "_updated": "2026-05-04T15:15:57.311805Z",
+    "permisson": "0",
+    "hoten": "Nguyễn Thị khuyến",
+    "tentk": "Nam27187",
+    "pass": "Ngoc1230@",
+    "sdt": "0394062908"
+  },
+  {
+    "_id": "D1kirJfDNBEG1zXEDBl4",
+    "_created": "2026-05-05T00:44:43.030341Z",
+    "_updated": "2026-05-05T00:44:43.030341Z",
+    "hoten": "huynh van vo",
+    "permisson": "0",
+    "sdt": "0869545811",
+    "pass": "vanvo545811",
+    "tentk": "huynhvo1993"
+  },
+  {
+    "_id": "DHWt4gDKYe4Zg8fwRbRe",
+    "_created": "2026-05-02T10:44:32.840218Z",
+    "_updated": "2026-05-02T10:44:32.840218Z",
+    "permisson": "0",
+    "hoten": "phan vu",
+    "tentk": "phan479",
+    "pass": "phan4790",
+    "sdt": "0397806490"
+  },
+  {
+    "_id": "DlYLFpqt1D61gDvyIrpu",
+    "_created": "2026-05-02T05:15:17.442451Z",
+    "_updated": "2026-05-02T05:15:17.442451Z",
+    "sdt": "0774001832",
+    "pass": "12345j",
+    "tentk": "hoangphu88",
+    "permisson": "0",
+    "hoten": "bui hoang phuc"
+  },
+  {
+    "_id": "EmGLL7IF2WIhWtyXZ0jB",
+    "_created": "2026-05-05T16:13:36.604486Z",
+    "_updated": "2026-05-05T16:13:36.604486Z",
+    "sdt": "0862018355",
+    "pass": "qq2026",
+    "tentk": "qq25qq",
+    "permisson": "0",
+    "hoten": "NGUYEN THANH LIEM"
+  },
+  {
+    "_id": "FMgR0lw7w8She4RIst4w",
+    "_created": "2026-05-04T12:06:38.356282Z",
+    "_updated": "2026-05-04T12:07:54.112400Z",
+    "pass": "362009",
+    "sdt": "0352385073",
+    "tentk": "nhatphong",
+    "hoten": "pham ly nhat phong",
+    "permisson": "1"
+  },
+  {
+    "_id": "Fu7xUIVQAnJhQkiNd3xI",
+    "_created": "2026-05-07T03:30:07.808702Z",
+    "_updated": "2026-05-07T03:31:53.018377Z",
+    "permisson": "1",
+    "hoten": "maitoha",
+    "sdt": "0335239673",
+    "pass": "040985",
+    "tentk": "tamha1981"
+  },
+  {
+    "_id": "Fv4eg5YSnyhQtSTyhjQx",
+    "_created": "2026-05-04T09:58:47.768112Z",
+    "_updated": "2026-05-04T10:04:24.503410Z",
+    "pass": "Taolavuaso1",
+    "sdt": "0382712922",
+    "tentk": "Minhhieu1220",
+    "hoten": "Hoàng Minh Hiếu",
+    "permisson": "1"
+  },
+  {
+    "_id": "FzoehMozM0o3toUnjFen",
+    "_created": "2026-05-01T15:48:56.263742Z",
+    "_updated": "2026-05-01T15:48:56.263742Z",
+    "hoten": "Tran Thanh Hieu",
+    "permisson": "0",
+    "tentk": "hieuh0107",
+    "sdt": "0765471443",
+    "pass": "01072008hieu"
+  },
+  {
+    "_id": "GibakzxlSB2expT1jwJX",
+    "_created": "2026-05-05T11:06:39.922329Z",
+    "_updated": "2026-05-05T11:39:29.346887Z",
+    "hoten": "nguyenvancuong",
+    "permisson": "1",
+    "tentk": "nguyencuong0",
+    "sdt": "0933125407",
+    "pass": "0933125407Tl"
+  },
+  {
+    "_id": "GqB2FIe2dI63FHNBFH6f",
+    "_created": "2026-05-06T07:34:35.378877Z",
+    "_updated": "2026-05-06T08:47:57.543711Z",
+    "sdt": "0378398906",
+    "pass": "thang1998",
+    "tentk": "thamthang123",
+    "permisson": "1",
+    "hoten": "Tham Van Thang"
+  },
+  {
+    "_id": "I2GnYCG1DsJya2UZoMfd",
+    "_created": "2026-05-09T12:56:37.170065Z",
+    "_updated": "2026-05-09T12:56:37.170065Z",
+    "tentk": "Diploc",
+    "sdt": "0977917843",
+    "pass": "Quangdi2002",
+    "permisson": "0",
+    "hoten": "HO QUANG DI"
+  },
+  {
+    "_id": "IfsHv5XalnJkQGKALVIZ",
+    "_created": "2026-05-03T14:14:11.251517Z",
+    "_updated": "2026-05-03T14:30:39.310599Z",
+    "tentk": "Tuanhaookvip",
+    "pass": "Hao090112",
+    "sdt": "0837688090",
+    "permisson": "1",
+    "hoten": "Nguyễn Tuấn Hào"
+  },
+  {
+    "_id": "JGO9rFqCl8XfliOlzKe6",
+    "_created": "2026-05-04T13:43:10.356808Z",
+    "_updated": "2026-05-04T13:45:03.580410Z",
+    "pass": "anhdudepzai123",
+    "sdt": "0907875144",
+    "tentk": "trangiabao",
+    "permisson": "1",
+    "hoten": "trần gia bảo"
+  },
+  {
+    "_id": "JHXipCYa0FbW1NW6Uaob",
+    "_created": "2026-05-02T05:33:20.274486Z",
+    "_updated": "2026-05-02T05:33:59.361522Z",
+    "pass": "Vv065164",
+    "sdt": "0822585222",
+    "tentk": "tulen2599",
+    "permisson": "1",
+    "hoten": "vtab"
+  },
+  {
+    "_id": "JYKicoFnyNbRwPolssQ8",
+    "_created": "2026-05-02T10:23:26.556511Z",
+    "_updated": "2026-05-02T10:26:18.223436Z",
+    "pass": "12345678",
+    "sdt": "0775715488",
+    "tentk": "namnh123",
+    "hoten": "Nguyen Hoang Nam",
+    "permisson": "1"
+  },
+  {
+    "_id": "JadCctvQB8RUYtOtxqKL",
+    "_created": "2026-05-04T06:04:45.349929Z",
+    "_updated": "2026-05-04T06:04:45.349929Z",
+    "hoten": "NGUYỄN HỒNG THẮNG",
+    "permisson": "0",
+    "tentk": "Xuanloc2",
+    "pass": "NINHKHANH1",
+    "sdt": "0326667526"
+  },
+  {
+    "_id": "JhWd4pRaqojhSYSYClPc",
+    "_created": "2026-05-04T09:33:30.921487Z",
+    "_updated": "2026-05-04T09:34:24.889903Z",
+    "sdt": "0347578941",
+    "pass": "MyDuyen678097",
+    "tentk": "VNDIRECT",
+    "permisson": "1",
+    "hoten": "pham nguyen my duyen"
+  },
+  {
+    "_id": "JuVitDXMdGxeAS10uy1e",
+    "_created": "2026-05-08T01:05:05.333430Z",
+    "_updated": "2026-05-08T01:05:05.333430Z",
+    "hoten": "DANG THANH TUAN",
+    "permisson": "0",
+    "tentk": "tuan120908",
+    "pass": "Thanhtuan1209",
+    "sdt": "0931989657"
+  },
+  {
+    "_id": "KOlNAPlhVZ5fCyY2t8KR",
+    "_created": "2026-05-04T15:17:18.568231Z",
+    "_updated": "2026-05-04T15:17:18.568231Z",
+    "tentk": "Nam1230",
+    "pass": "Ngoc1230@",
+    "sdt": "0336281036",
+    "hoten": "Nguyễn Thị khuyến",
+    "permisson": "0"
+  },
+  {
+    "_id": "KPElGqdadI1tF5H61102",
+    "_created": "2026-05-04T15:23:31.544812Z",
+    "_updated": "2026-05-04T15:27:44.034791Z",
+    "permisson": "1",
+    "hoten": "NGUYEN VAN NAM",
+    "tentk": "vannam131145",
+    "sdt": "0917855799",
+    "pass": "vn347651"
+  },
+  {
+    "_id": "KXOGgdhlWsg6YxqFxy2M",
+    "_created": "2026-05-03T06:18:29.953920Z",
+    "_updated": "2026-05-03T06:18:29.953920Z",
+    "permisson": "0",
+    "hoten": "Nguyễn Công Thảo",
+    "tentk": "boi",
+    "pass": "123456",
+    "sdt": "0584107315"
+  },
+  {
+    "_id": "KZCMbrxjHc30qJDyjwe7",
+    "_created": "2026-05-02T08:40:29.802436Z",
+    "_updated": "2026-05-02T08:40:29.802436Z",
+    "permisson": "0",
+    "hoten": "Nguyen dinh van",
+    "tentk": "đinh van",
+    "pass": "005028",
+    "sdt": "0862005028"
+  },
+  {
+    "_id": "M9W2RtS4Z84hpDRCES2Z",
+    "_created": "2026-05-06T12:32:24.977378Z",
+    "_updated": "2026-05-06T12:39:10.134090Z",
+    "sdt": "0939001861",
+    "pass": "maithai0510",
+    "tentk": "thaihoang051",
+    "hoten": "Mai Thanh Hoàng Thái",
+    "permisson": "1"
+  },
+  {
+    "_id": "MdvnMq6XCdLXr7G3rIcf",
+    "_created": "2026-05-04T08:36:03.389746Z",
+    "_updated": "2026-05-04T08:40:40.725696Z",
+    "pass": "139431",
+    "sdt": "0963139252",
+    "tentk": "caubecodon02",
+    "permisson": "1",
+    "hoten": "tran khuong"
+  },
+  {
+    "_id": "MeYwivLMfq4zlaVA3Fa1",
+    "_created": "2026-05-06T07:45:47.571134Z",
+    "_updated": "2026-05-06T07:51:07.873793Z",
+    "tentk": "huong210",
+    "pass": "huong210",
+    "sdt": "0353553237",
+    "permisson": "1",
+    "hoten": "trần thị Phi"
+  },
+  {
+    "_id": "MwWiFDAWhY8uyviTfkQM",
+    "_created": "2026-05-06T07:26:14.080370Z",
+    "_updated": "2026-05-06T07:26:14.080370Z",
+    "sdt": "0786838894",
+    "pass": "hung12345",
+    "tentk": "voquanghung",
+    "hoten": "2008",
+    "permisson": "0"
+  },
+  {
+    "_id": "Mz8n0cVHBL2VFVyqGJCv",
+    "_created": "2026-05-08T14:32:36.490808Z",
+    "_updated": "2026-05-08T14:32:36.490808Z",
+    "hoten": "nguyễn văn việt hùng",
+    "permisson": "0",
+    "sdt": "0337282714",
+    "pass": "hung173211",
+    "tentk": "hungez"
+  },
+  {
+    "_id": "N8e6zNj4w4QeNdIz9AFB",
+    "_created": "2026-05-05T03:42:43.418597Z",
+    "_updated": "2026-05-05T04:40:35.595518Z",
+    "tentk": "bachma6677",
+    "sdt": "0589311429",
+    "pass": "bachma7766",
+    "hoten": "LE HUU MA",
+    "permisson": "1"
+  },
+  {
+    "_id": "O5sgT85gvoAMygc5iOh0",
+    "_created": "2026-05-02T08:50:57.910678Z",
+    "_updated": "2026-05-02T08:50:57.910678Z",
+    "hoten": "NGUYEN VAN UT",
+    "permisson": "0",
+    "tentk": "VanutBCR1234",
+    "sdt": "0939748075",
+    "pass": "Ut123456@"
+  },
+  {
+    "_id": "OOEtbKnAuXQPao1DViyq",
+    "_created": "2026-05-02T07:29:00.015843Z",
+    "_updated": "2026-05-02T07:31:03.901092Z",
+    "hoten": "DAM THANH QUANH",
+    "permisson": "1",
+    "tentk": "pilong6789",
+    "pass": "Thanhlong88",
+    "sdt": "0968772847"
+  },
+  {
+    "_id": "OXZ7aDymQujl4DV3b2G8",
+    "_created": "2026-05-04T09:17:03.847089Z",
+    "_updated": "2026-05-04T09:17:03.847089Z",
+    "tentk": "Hung200",
+    "pass": "hng12345",
+    "sdt": "0786838894",
+    "permisson": "0",
+    "hoten": "hungvo"
+  },
+  {
+    "_id": "OhkAbi2DNRRuDWwj3Z3q",
+    "_created": "2026-05-06T13:48:25.826095Z",
+    "_updated": "2026-05-06T13:50:07.498284Z",
+    "tentk": "lam187",
+    "sdt": "0393939127",
+    "pass": "1111987",
+    "hoten": "VO VAN LAM",
+    "permisson": "1"
+  },
+  {
+    "_id": "OyXZU98WF10BIAa6fnWu",
+    "_created": "2026-05-02T14:08:21.783841Z",
+    "_updated": "2026-05-02T14:08:21.783841Z",
+    "tentk": "ducthuan",
+    "sdt": "0345649013",
+    "pass": "12082010",
+    "hoten": "NGO DUC THUAN",
+    "permisson": "0"
+  },
+  {
+    "_id": "PBZ64AP75kIpbcfzX0gE",
+    "_created": "2026-05-03T04:39:13.347605Z",
+    "_updated": "2026-05-03T04:39:13.347605Z",
+    "permisson": "0",
+    "hoten": "NGUYEN VAN TUYEN",
+    "pass": "070609",
+    "sdt": "0867548403",
+    "tentk": "tuyen070609"
+  },
+  {
+    "_id": "PnCimExliREIKZt43jDK",
+    "_created": "2026-04-29T07:30:48.156321Z",
+    "_updated": "2026-04-29T07:46:42.900877Z",
+    "permisson": "1",
+    "hoten": "nguyễn vũ hà vinh",
+    "tentk": "havinh123",
+    "sdt": "0835395079",
+    "pass": "Poi098uyt"
+  },
+  {
+    "_id": "Pst4LAA7ZdaMHEAtzzSk",
+    "_created": "2026-05-04T08:03:09.879884Z",
+    "_updated": "2026-05-04T08:04:16.677976Z",
+    "sdt": "0815566019",
+    "pass": "thanhnamle2",
+    "tentk": "thanhnamle1",
+    "permisson": "1",
+    "hoten": "Le Minh Tam"
+  },
+  {
+    "_id": "PzJcZwiP87reynNpURe0",
+    "_created": "2026-05-06T18:33:36.452395Z",
+    "_updated": "2026-05-06T18:36:20.596599Z",
+    "hoten": "Thach Thi Ngoc Tuyen",
+    "permisson": "1",
+    "pass": "912008",
+    "sdt": "0332910356",
+    "tentk": "ngtuyen91"
+  },
+  {
+    "_id": "Qa8n4WVUs7CfSVF41BAp",
+    "_created": "2026-05-05T11:09:18.450249Z",
+    "_updated": "2026-05-05T11:09:18.450249Z",
+    "pass": "123456",
+    "sdt": "0865343152",
+    "tentk": "Lý Văn út",
+    "hoten": "Lý Văn út",
+    "permisson": "0"
+  },
+  {
+    "_id": "QuCLrutytpsyjMHmWX5l",
+    "_created": "2026-04-30T11:53:46.440546Z",
+    "_updated": "2026-04-30T11:53:46.440546Z",
+    "tentk": "tloideptrai",
+    "pass": "loitv123",
+    "sdt": "0915033950",
+    "permisson": "0",
+    "hoten": "nguyễn tấn lợi"
+  },
+  {
+    "_id": "RZwLtRgGEIgVlap4pYJH",
+    "_created": "2026-05-07T07:31:55.348460Z",
+    "_updated": "2026-05-07T07:34:30.815788Z",
+    "tentk": "travinh",
+    "pass": "NiemTinCuoi",
+    "sdt": "0886154716",
+    "hoten": "NGUYEN THI THANH THUY",
+    "permisson": "1"
+  },
+  {
+    "_id": "S300tzFbSTPcAxurKGqO",
+    "_created": "2026-05-01T06:24:45.008835Z",
+    "_updated": "2026-05-01T06:26:26.237484Z",
+    "sdt": "0392380993",
+    "pass": "dacnhantam123#",
+    "tentk": "dacnhantam",
+    "permisson": "1",
+    "hoten": "NGUYEN QUOC SY"
+  },
+  {
+    "_id": "S9qsUIqnuH9Es6xoYzke",
+    "_created": "2026-05-11T04:17:20.509708Z",
+    "_updated": "2026-05-11T04:17:20.509708Z",
+    "tentk": "voquanghung",
+    "pass": "12345",
+    "sdt": "0786838894",
+    "permisson": "0",
+    "hoten": "voquanghung"
+  },
+  {
+    "_id": "SGvx48bkDUAKXeMCyKY0",
+    "_created": "2026-05-06T15:45:24.708847Z",
+    "_updated": "2026-05-06T15:45:24.708847Z",
+    "tentk": "tranthuan",
+    "pass": "thuan123",
+    "sdt": "0877081220",
+    "hoten": "TRAN NGOC THUAN",
+    "permisson": "0"
+  },
+  {
+    "_id": "TaFBoOOMjtZzxPSNxtmk",
+    "_created": "2026-05-04T07:27:28.797699Z",
+    "_updated": "2026-05-04T07:27:28.797699Z",
+    "pass": "binbi12092008",
+    "sdt": "0394211170",
+    "tentk": "bincaca2008",
+    "permisson": "0",
+    "hoten": "Nguyễn Hoài Hậu"
+  },
+  {
+    "_id": "U7CJjR5hJP1lptgcMkQB",
+    "_created": "2026-05-06T07:30:30.449265Z",
+    "_updated": "2026-05-06T07:30:30.449265Z",
+    "tentk": "voquanghung",
+    "sdt": "0786838894",
+    "pass": "hung12345",
+    "permisson": "0",
+    "hoten": "voquanghung"
+  },
+  {
+    "_id": "UWx90kPVRj9qiiqCa36M",
+    "_created": "2026-05-02T10:21:40.915389Z",
+    "_updated": "2026-05-02T10:21:40.915389Z",
+    "tentk": "mrbibo797979",
+    "sdt": "0796758885",
+    "pass": "0796758885@maPP",
+    "hoten": "vo thai nguyen",
+    "permisson": "0"
+  },
+  {
+    "_id": "VCSA7H9UoumSCkNrduk3",
+    "_created": "2026-05-08T15:35:36.140889Z",
+    "_updated": "2026-05-08T15:35:36.140889Z",
+    "tentk": "trgiang0902",
+    "sdt": "0398504577",
+    "pass": "trgiang123@",
+    "hoten": "Nguyễn Trường Giang",
+    "permisson": "0"
+  },
+  {
+    "_id": "W3o6mTbzp882EaHwHuBv",
+    "_created": "2026-05-04T06:19:51.591298Z",
+    "_updated": "2026-05-04T06:19:51.591298Z",
+    "hoten": "Lê Thị Kim Loan",
+    "permisson": "0",
+    "pass": "240879",
+    "sdt": "0902765718",
+    "tentk": "Kim Loan"
+  },
+  {
+    "_id": "W75tuYjAK1Tn2lCjHgys",
+    "_created": "2026-05-02T07:30:01.267937Z",
+    "_updated": "2026-05-02T07:32:27.759816Z",
+    "hoten": "TA QUANG TUOI",
+    "permisson": "1",
+    "pass": "Tuoi1976",
+    "sdt": "0961424768",
+    "tentk": "zluason99"
+  },
+  {
+    "_id": "WeOx70UCRgI8fR2HPYwF",
+    "_created": "2026-05-03T09:55:48.366589Z",
+    "_updated": "2026-05-11T08:45:34.372671Z",
+    "hoten": "MAI NGUYEN TRUONG",
+    "permisson": "1",
+    "tentk": "abc12345",
+    "sdt": "0909954260",
+    "pass": "123456"
+  },
+  {
+    "_id": "YClvJrDan8Cjo8jO3rOg",
+    "_created": "2026-05-07T14:04:58.405730Z",
+    "_updated": "2026-05-07T14:27:52.969398Z",
+    "hoten": "vo thanh lam",
+    "permisson": "0",
+    "sdt": "0901183856",
+    "pass": "123456",
+    "tentk": "tlamvo"
+  },
+  {
+    "_id": "YF6D72NzMt3vY8dcYssP",
+    "_created": "2026-05-05T14:25:15.165312Z",
+    "_updated": "2026-05-05T14:26:46.877702Z",
+    "sdt": "0325491814",
+    "pass": "12345677a",
+    "tentk": "mygaga2008",
+    "permisson": "1",
+    "hoten": "phạm ngọc hồng sơn"
+  },
+  {
+    "_id": "YfFsmlvKmz1mMZG6c8W1",
+    "_created": "2026-05-04T14:53:10.024187Z",
+    "_updated": "2026-05-04T14:54:53.194294Z",
+    "sdt": "0853783538",
+    "pass": "123456",
+    "tentk": "thanhbinhz92",
+    "hoten": "TRINH THANH BINH",
+    "permisson": "1"
+  },
+  {
+    "_id": "YitxRgRSwoAnxuFuxbCZ",
+    "_created": "2026-05-04T08:28:12.714675Z",
+    "_updated": "2026-05-04T08:28:12.714675Z",
+    "sdt": "0347578941",
+    "pass": "MyDuyen678097",
+    "tentk": "myduyen123",
+    "hoten": "pham nguyen my duyen",
+    "permisson": "0"
+  },
+  {
+    "_id": "ZssW77NUhRTVtK2jwQvH",
+    "_created": "2026-05-02T08:39:11.983291Z",
+    "_updated": "2026-05-02T08:39:11.983291Z",
+    "tentk": "gialong",
+    "sdt": "0909888999",
+    "pass": "123456",
+    "hoten": "hoang gia long",
+    "permisson": "0"
+  },
+  {
+    "_id": "aCseABciMciQld8nwyYo",
+    "_created": "2026-05-06T10:50:59.030624Z",
+    "_updated": "2026-05-06T10:50:59.030624Z",
+    "permisson": "0",
+    "hoten": "NGUYEN CONG TOAN",
+    "tentk": "trmi137211",
+    "sdt": "0342336849",
+    "pass": "trmi137211"
+  },
+  {
+    "_id": "aN5pzB0B6xeAFQy7IxQl",
+    "_created": "2026-05-04T07:57:16.259132Z",
+    "_updated": "2026-05-04T08:00:15.972614Z",
+    "permisson": "1",
+    "hoten": "KHUONG MINH HUNG",
+    "pass": "Hung6868@",
+    "sdt": "0946479790",
+    "tentk": "Hung6869"
+  },
+  {
+    "_id": "bFZKdlknF8TgHYXwLzjJ",
+    "_created": "2026-05-04T09:32:48.047778Z",
+    "_updated": "2026-05-04T09:32:48.047778Z",
+    "pass": "MyDuyen678097",
+    "sdt": "0347578941",
+    "tentk": "myduyen1234",
+    "permisson": "0",
+    "hoten": "pham nguyen my duyen"
+  },
+  {
+    "_id": "bcboBziulcwdgVsGChi3",
+    "_created": "2026-05-02T05:33:19.450737Z",
+    "_updated": "2026-05-02T05:34:07.250060Z",
+    "hoten": "vtab",
+    "permisson": "1",
+    "sdt": "0822585222",
+    "pass": "Vv065164",
+    "tentk": "tulen2599"
+  },
+  {
+    "_id": "byclkOkzkBaDdsBYaPMm",
+    "_created": "2026-05-06T07:26:13.226327Z",
+    "_updated": "2026-05-06T07:26:13.226327Z",
+    "tentk": "voquanghung",
+    "sdt": "0786838894",
+    "pass": "hung12345",
+    "permisson": "0",
+    "hoten": "2008"
+  },
+  {
+    "_id": "c1CJMwYYHqeBiWAnfAAd",
+    "_created": "2026-05-07T15:46:32.480204Z",
+    "_updated": "2026-05-07T15:50:11.138519Z",
+    "tentk": "lycha123",
+    "pass": "cha123",
+    "sdt": "0333678263",
+    "permisson": "1",
+    "hoten": "lycha"
+  },
+  {
+    "_id": "c2tyZLA1A4CFtN0QJy3g",
+    "_created": "2026-05-14T14:26:48.444223Z",
+    "_updated": "2026-05-14T14:29:06.177276Z",
+    "tentk": "tigertest68",
+    "sdt": "0985855688",
+    "pass": "123456",
+    "hoten": "nguyen van sang",
+    "permisson": "1"
+  },
+  {
+    "_id": "cKw9bOsaIC1Qc6kkF761",
+    "_created": "2026-05-02T10:58:49.518713Z",
+    "_updated": "2026-05-02T10:58:49.518713Z",
+    "tentk": "phan479",
+    "sdt": "0397806490",
+    "pass": "phan4790",
+    "permisson": "0",
+    "hoten": "phan vu"
+  },
+  {
+    "_id": "dOLZXuY5IcrrA0AA13ub",
+    "_created": "2026-05-04T14:53:09.554869Z",
+    "_updated": "2026-05-04T14:53:09.554869Z",
+    "hoten": "TRINH THANH BINH",
+    "permisson": "0",
+    "tentk": "thanhbinhz92",
+    "sdt": "0853783538",
+    "pass": "123456"
+  },
+  {
+    "_id": "deyf31oZHmv3WftUCvrR",
+    "_created": "2026-05-04T06:24:32.687719Z",
+    "_updated": "2026-05-04T06:24:32.687719Z",
+    "hoten": "NGUYEN QUOC SY",
+    "permisson": "0",
+    "tentk": "dacnhantam",
+    "pass": "dacnhantam123#",
+    "sdt": "0392380993"
+  },
+  {
+    "_id": "e3ZmNRebYo4MwlujB5nS",
+    "_created": "2026-05-01T23:22:45.742530Z",
+    "_updated": "2026-05-01T23:24:52.336614Z",
+    "tentk": "khangmeta109",
+    "sdt": "0365379984",
+    "pass": "lamchikhang109",
+    "permisson": "1",
+    "hoten": "lâm chí an"
+  },
+  {
+    "_id": "e77CKlioKxxYF93ULK1J",
+    "_created": "2026-05-01T08:18:06.817793Z",
+    "_updated": "2026-05-01T08:18:06.817793Z",
+    "sdt": "0938992824",
+    "pass": "797980",
+    "tentk": "Đoàn Hiền",
+    "hoten": "Đoàn Hiền",
+    "permisson": "0"
+  },
+  {
+    "_id": "eNYPILC9V3B3bhaWRXHV",
+    "_created": "2026-05-07T05:18:07.291256Z",
+    "_updated": "2026-05-07T05:18:07.291256Z",
+    "permisson": "0",
+    "hoten": "Nguyễn kha",
+    "tentk": "khabulon99",
+    "pass": "khadz123",
+    "sdt": "0389556180"
+  },
+  {
+    "_id": "fKxXO4LEGMwboXah70FZ",
+    "_created": "2026-05-02T11:23:38.579899Z",
+    "_updated": "2026-05-02T11:23:38.579899Z",
+    "permisson": "0",
+    "hoten": "phạm công tuyền",
+    "tentk": "tuyen123098",
+    "sdt": "0702943416",
+    "pass": "tuyen123098aH"
+  },
+  {
+    "_id": "flqZLGuWfRjrYRghEKrH",
+    "_created": "2026-05-05T13:11:00.573090Z",
+    "_updated": "2026-05-05T13:11:00.573090Z",
+    "pass": "Aa982011",
+    "sdt": "0976901854",
+    "tentk": "Thuanken09",
+    "hoten": "VO MINH THUAN",
+    "permisson": "0"
+  },
+  {
+    "_id": "fuEQa59czI5zy5EehPTE",
+    "_created": "2026-05-02T08:14:33.895415Z",
+    "_updated": "2026-05-02T08:14:33.895415Z",
+    "tentk": "VanutBCR1234",
+    "pass": "Ut123456@",
+    "sdt": "0939748075",
+    "permisson": "0",
+    "hoten": "NGUYEN VAN UT"
+  },
+  {
+    "_id": "gOK1JlcZeTzkxpRXuK7Z",
+    "_created": "2026-05-05T07:46:22.192799Z",
+    "_updated": "2026-05-05T07:46:22.192799Z",
+    "sdt": "0786838894",
+    "pass": "hung12345",
+    "tentk": "voquanghung",
+    "hoten": "2008",
+    "permisson": "0"
+  },
+  {
+    "_id": "gZQVsBnabdLernXLT8z0",
+    "_created": "2026-05-02T02:58:17.544160Z",
+    "_updated": "2026-05-02T03:16:22.671378Z",
+    "permisson": "1",
+    "hoten": "nguyenminhthien",
+    "tentk": "minhthien90",
+    "sdt": "0907826735",
+    "pass": "12345thien"
+  },
+  {
+    "_id": "goCZzAkfteDC1OmLQpvS",
+    "_created": "2026-04-26T06:03:58.063040Z",
+    "_updated": "2026-04-26T06:04:39.841070Z",
+    "tentk": "hunganh2e",
+    "pass": "123456789",
+    "sdt": "0943755069",
+    "hoten": "Phạm hùng anh",
+    "permisson": "1"
+  },
+  {
+    "_id": "hLdNtp0xrX7OW6zV868h",
+    "_created": "2026-05-05T07:41:14.738803Z",
+    "_updated": "2026-05-05T07:41:14.738803Z",
+    "sdt": "0909888999",
+    "tentk": "gialong",
+    "pass": "123456",
+    "permisson": "0",
+    "hoten": "hoang gia long"
+  },
+  {
+    "_id": "hZzuusEzjYJLySbRV37a",
+    "_created": "2026-05-07T03:03:48.393031Z",
+    "_updated": "2026-05-07T03:05:51.736469Z",
+    "pass": "Nam13072010",
+    "tentk": "BaoNam2402R",
+    "sdt": "0397892482",
+    "hoten": "Nguyễn Hoàng Bảo Nam",
+    "permisson": "1"
+  },
+  {
+    "_id": "huhp5072m4paL4ntxpo4",
+    "_created": "2026-05-09T12:26:00.184778Z",
+    "_updated": "2026-05-09T12:26:00.184778Z",
+    "permisson": "0",
+    "hoten": "Trần Kim Tính",
+    "pass": "0902747679@Kk",
+    "sdt": "0878601632",
+    "tentk": "tinh280902"
+  },
+  {
+    "_id": "iF2n4GQOXX93vVXm1xaE",
+    "_created": "2026-05-04T09:32:47.940318Z",
+    "_updated": "2026-05-04T09:32:47.940318Z",
+    "pass": "MyDuyen678097",
+    "tentk": "myduyen1234",
+    "sdt": "0347578941",
+    "permisson": "0",
+    "hoten": "pham nguyen my duyen"
+  },
+  {
+    "_id": "iMqH2YVFv7r1PsSiCsKU",
+    "_created": "2026-05-12T14:48:04.328730Z",
+    "_updated": "2026-05-12T14:48:04.328730Z",
+    "permisson": "0",
+    "hoten": "hoang",
+    "pass": "huyhoang",
+    "tentk": "huyhoang",
+    "sdt": "0922332323"
+  },
+  {
+    "_id": "iU2Hv9xZprYXfZKHIA55",
+    "_created": "2026-05-03T15:44:44.727320Z",
+    "_updated": "2026-05-03T15:44:44.727320Z",
+    "permisson": "0",
+    "hoten": "Quang giang nam",
+    "pass": "200109",
+    "sdt": "0326590748",
+    "tentk": "namgiang"
+  },
+  {
+    "_id": "j7FiCsW0fsLTd6ei6Yre",
+    "_created": "2026-05-07T05:18:08.159220Z",
+    "_updated": "2026-05-07T05:18:08.159220Z",
+    "pass": "khadz123",
+    "sdt": "0389556180",
+    "tentk": "khabulon99",
+    "permisson": "0",
+    "hoten": "Nguyễn kha"
+  },
+  {
+    "_id": "jHprpCdwqH31UuJ5QDMg",
+    "_created": "2026-05-04T02:49:40.017102Z",
+    "_updated": "2026-05-04T02:49:40.017102Z",
+    "permisson": "0",
+    "hoten": "NGOCHAN",
+    "pass": "tuongvy2101",
+    "tentk": "Tường Vy",
+    "sdt": "0357951453"
+  },
+  {
+    "_id": "jKuEllzCfA0cZt8GS6vG",
+    "_created": "2026-05-04T04:41:19.135164Z",
+    "_updated": "2026-05-04T05:03:14.077107Z",
+    "hoten": "hovanluy",
+    "permisson": "0",
+    "pass": "Aluy1987",
+    "tentk": "holuy2029",
+    "sdt": "0338151549"
+  },
+  {
+    "_id": "jrkHNu5lffBOejmDNABA",
+    "_created": "2026-05-09T12:33:51.340201Z",
+    "_updated": "2026-05-09T12:33:51.340201Z",
+    "permisson": "0",
+    "hoten": "Trần Kim Tính",
+    "pass": "0902747679@Kk",
+    "tentk": "tinh28092002",
+    "sdt": "0878601632"
+  },
+  {
+    "_id": "k5bX3UEtdSQqLdiEEZNK",
+    "_created": "2026-05-01T18:19:37.323402Z",
+    "_updated": "2026-05-01T18:19:37.323402Z",
+    "pass": "qhuy32211",
+    "tentk": "qhuy3232",
+    "sdt": "0978670954",
+    "permisson": "0",
+    "hoten": "HO A QUI"
+  },
+  {
+    "_id": "kljUt31zzfSAGjn6SwBo",
+    "_created": "2026-05-08T17:03:53.233438Z",
+    "_updated": "2026-05-08T17:03:53.233438Z",
+    "sdt": "0988888765",
+    "tentk": "emthuaroi",
+    "pass": "123123",
+    "permisson": "0",
+    "hoten": "NGUYEENYEN JACKY"
+  },
+  {
+    "_id": "lBFn8zceVayY2BYN3iIX",
+    "_created": "2026-05-07T05:07:49.700766Z",
+    "_updated": "2026-05-07T05:20:48.929677Z",
+    "hoten": "Nguyễn kha",
+    "permisson": "1",
+    "pass": "khadz123",
+    "tentk": "khabulon99",
+    "sdt": "0389556180"
+  },
+  {
+    "_id": "lJuGWqmN3sajFlUd5XCL",
+    "_created": "2026-04-27T07:03:22.041424Z",
+    "_updated": "2026-04-27T07:04:39.930343Z",
+    "hoten": "Hadex",
+    "permisson": "1",
+    "sdt": "0123456789",
+    "tentk": "Hadex",
+    "pass": "123456"
+  },
+  {
+    "_id": "m99MiLjGPoZfYYkLG4Af",
+    "_created": "2026-05-02T08:51:25.576914Z",
+    "_updated": "2026-05-02T08:55:11.262745Z",
+    "hoten": "nguyendinhvan",
+    "permisson": "1",
+    "pass": "005028",
+    "tentk": "dinhvan",
+    "sdt": "0862005028"
+  },
+  {
+    "_id": "mK9SSo0fGi9eZ010ofKA",
+    "_created": "2026-05-02T10:24:04.170464Z",
+    "_updated": "2026-05-02T10:25:19.879176Z",
+    "hoten": "vo thai nguyen",
+    "permisson": "1",
+    "pass": "0796758885@maPP",
+    "tentk": "mrbeo6868",
+    "sdt": "0796758885"
+  },
+  {
+    "_id": "mZqtDWl9cAqgZFqH745D",
+    "_created": "2026-05-04T05:01:19.328584Z",
+    "_updated": "2026-05-04T05:03:48.068041Z",
+    "pass": "huy1992",
+    "tentk": "holuy2028",
+    "sdt": "0338151542",
+    "hoten": "hovanluy",
+    "permisson": "1"
+  },
+  {
+    "_id": "maLv0w17v31XyB1OCZD6",
+    "_created": "2026-05-06T09:54:55.932090Z",
+    "_updated": "2026-05-06T10:04:31.996245Z",
+    "hoten": "DAO VAN CHIEN",
+    "permisson": "1",
+    "tentk": "chiendao",
+    "sdt": "0354079381",
+    "pass": "chien123"
+  },
+  {
+    "_id": "mkhM89j1NYd8QPsNjp41",
+    "_created": "2026-04-29T09:07:05.416100Z",
+    "_updated": "2026-04-29T09:08:41.784203Z",
+    "hoten": "son",
+    "permisson": "1",
+    "sdt": "0978643156",
+    "tentk": "tson0412",
+    "pass": "tson11@"
+  },
+  {
+    "_id": "mp43AIskt1Fe0VVBGNiU",
+    "_created": "2026-05-01T08:24:27.188847Z",
+    "_updated": "2026-05-01T08:24:27.188847Z",
+    "tentk": "Hiền",
+    "sdt": "0938992824",
+    "pass": "hien79",
+    "permisson": "0",
+    "hoten": "Đoàn"
+  },
+  {
+    "_id": "mx9PqcwhU4YgudNEzTki",
+    "_created": "2026-05-05T05:03:42.650854Z",
+    "_updated": "2026-05-05T05:04:18.990746Z",
+    "hoten": "sgdfasga",
+    "permisson": "1",
+    "tentk": "123321",
+    "sdt": "0924819044",
+    "pass": "123456"
+  },
+  {
+    "_id": "myZd5oV6bkVqzmvIsmLH",
+    "_created": "2026-05-05T02:23:58.227002Z",
+    "_updated": "2026-05-05T02:27:01.350374Z",
+    "hoten": "ho ngoc diem",
+    "permisson": "1",
+    "pass": "Diem@1978",
+    "tentk": "hana1976",
+    "sdt": "0989365562"
+  },
+  {
+    "_id": "nrk66Lb6syhqZEoYpCKP",
+    "_created": "2026-05-01T15:13:06.419503Z",
+    "_updated": "2026-05-01T15:13:06.419503Z",
+    "tentk": "gialong",
+    "sdt": "0909888999",
+    "pass": "123456",
+    "permisson": "0",
+    "hoten": "hoang gia long"
+  },
+  {
+    "_id": "o5z4ZBvvLJ0esG1GzZkl",
+    "_created": "2026-05-02T05:05:44.316217Z",
+    "_updated": "2026-05-02T05:05:44.316217Z",
+    "pass": "muoi12345",
+    "tentk": "tongmuoi123",
+    "sdt": "0398127713",
+    "permisson": "0",
+    "hoten": "TONG HONG MUOI"
+  },
+  {
+    "_id": "oSRY1E1kVCxkP6vtphxX",
+    "_created": "2026-05-11T04:17:21.374838Z",
+    "_updated": "2026-05-11T04:17:21.374838Z",
+    "permisson": "0",
+    "hoten": "voquanghung",
+    "sdt": "0786838894",
+    "tentk": "voquanghung",
+    "pass": "12345"
+  },
+  {
+    "_id": "ooxooCvs4z6Lk962gQwF",
+    "_created": "2026-05-05T12:30:10.408130Z",
+    "_updated": "2026-05-05T12:32:06.049819Z",
+    "pass": "281282",
+    "tentk": "trandinh",
+    "sdt": "0986681482",
+    "hoten": "Trần Văn Đình",
+    "permisson": "1"
+  },
+  {
+    "_id": "p4IsmUYiGd43Wojsfako",
+    "_created": "2026-05-04T16:22:08.170569Z",
+    "_updated": "2026-05-04T16:24:07.639513Z",
+    "pass": "dugzn6",
+    "tentk": "dugznd",
+    "sdt": "0394013075",
+    "hoten": "LE VIET CUONG",
+    "permisson": "1"
+  },
+  {
+    "_id": "p5PLi08SeGQR7GzcfX25",
+    "_created": "2026-05-06T15:18:16.814565Z",
+    "_updated": "2026-05-06T15:18:16.814565Z",
+    "permisson": "0",
+    "hoten": "Nguyễn MinhTung",
+    "pass": "MinhTug2005",
+    "sdt": "0345856171",
+    "tentk": "minhtung21"
+  },
+  {
+    "_id": "rAbqn6HplqhgFS79FtfM",
+    "_created": "2026-05-02T09:15:10.181216Z",
+    "_updated": "2026-05-02T09:16:11.780734Z",
+    "hoten": "anh dây",
+    "permisson": "1",
+    "pass": "200598",
+    "tentk": "anhday1",
+    "sdt": "0123456789"
+  },
+  {
+    "_id": "rjOVNyU1FVFANEWTT0It",
+    "_created": "2026-05-06T13:23:15.292027Z",
+    "_updated": "2026-05-06T13:23:15.292027Z",
+    "pass": "1234567899",
+    "tentk": "thanhbinh",
+    "sdt": "0325616684",
+    "permisson": "0",
+    "hoten": "Phamthanhbinh"
+  },
+  {
+    "_id": "rkbJTOgnWkX1LCZlWZUy",
+    "_created": "2026-05-06T15:35:22.790448Z",
+    "_updated": "2026-05-06T15:37:10.017019Z",
+    "hoten": "Lê Văn Huy",
+    "permisson": "1",
+    "pass": "Lehuy26428@",
+    "sdt": "0965237072",
+    "tentk": "manhdung99"
+  },
+  {
+    "_id": "rxBqkxEMtQPlpndMgNXA",
+    "_created": "2026-05-05T01:26:15.075077Z",
+    "_updated": "2026-05-05T01:31:52.387083Z",
+    "hoten": "Phạm Văn Tuấn",
+    "permisson": "1",
+    "pass": "Tuankubi2009",
+    "tentk": "le2003kkkk",
+    "sdt": "0347153605"
+  },
+  {
+    "_id": "t08RLlfoa6RwTBVeC73g",
+    "_created": "2026-04-29T07:44:10.339056Z",
+    "_updated": "2026-04-29T07:45:14.341192Z",
+    "hoten": "claude",
+    "permisson": "1",
+    "pass": "Jj021192@!",
+    "tentk": "claudetest",
+    "sdt": "07775008096"
+  },
+  {
+    "_id": "t53ULZqSRNC6pxIoBpC8",
+    "_created": "2026-05-05T08:57:35.513275Z",
+    "_updated": "2026-05-05T11:12:28.074828Z",
+    "hoten": "Lý Văn út",
+    "permisson": "1",
+    "tentk": "lyvanut",
+    "sdt": "0865343152",
+    "pass": "123456"
+  },
+  {
+    "_id": "teYIANFxPLw7ZNN33Myx",
+    "_created": "2026-05-04T11:20:16.600720Z",
+    "_updated": "2026-05-05T07:39:14.696796Z",
+    "hoten": "võ quang hưng",
+    "permisson": "1",
+    "sdt": "0786838894",
+    "tentk": "quang hưng",
+    "pass": "hung12345ff"
+  },
+  {
+    "_id": "uAFv6fZWC4kGFv00Dvfc",
+    "_created": "2026-05-09T12:51:30.620899Z",
+    "_updated": "2026-05-09T12:51:30.620899Z",
+    "sdt": "0862003910",
+    "tentk": "phuongckip",
+    "pass": "090987",
+    "permisson": "0",
+    "hoten": "nguyen van phuong"
+  },
+  {
+    "_id": "uD0kZCFveCAyexhQZ9lG",
+    "_created": "2026-05-05T07:46:22.245109Z",
+    "_updated": "2026-05-05T07:46:22.245109Z",
+    "tentk": "voquanghung",
+    "sdt": "0786838894",
+    "pass": "hung12345",
+    "permisson": "0",
+    "hoten": "2008"
+  },
+  {
+    "_id": "uhiuvBm3E5TDjMwp5KRP",
+    "_created": "2026-05-03T14:19:39.162516Z",
+    "_updated": "2026-05-03T14:19:39.162516Z",
+    "tentk": "vukege444",
+    "sdt": "0899283137",
+    "pass": "123456789b",
+    "permisson": "0",
+    "hoten": "lê chí bảo"
+  },
+  {
+    "_id": "ulZ14sOqkf0wOdJhQxYv",
+    "_created": "2026-05-06T13:21:07.064489Z",
+    "_updated": "2026-05-06T13:21:07.064489Z",
+    "permisson": "0",
+    "hoten": "phạm Thanh bình",
+    "tentk": "Phạm Thanình",
+    "sdt": "0325616684",
+    "pass": "phamquynhchi"
+  },
+  {
+    "_id": "uqSJMvUgzCHZfmqYo3S8",
+    "_created": "2026-05-04T02:58:58.916513Z",
+    "_updated": "2026-05-04T02:58:58.916513Z",
+    "tentk": "anh862026",
+    "sdt": "0775102189",
+    "pass": "791987",
+    "permisson": "0",
+    "hoten": "nguyễn thị nga"
+  },
+  {
+    "_id": "uwEIMe0yMC3l86XBHX39",
+    "_created": "2026-05-05T07:46:22.926548Z",
+    "_updated": "2026-05-05T07:46:22.926548Z",
+    "permisson": "0",
+    "hoten": "2008",
+    "pass": "hung12345",
+    "tentk": "voquanghung",
+    "sdt": "0786838894"
+  },
+  {
+    "_id": "v60vbZe5OUctWTFkn81j",
+    "_created": "2026-05-03T13:09:06.146848Z",
+    "_updated": "2026-05-03T13:23:14.101448Z",
+    "hoten": "hovanhiep",
+    "permisson": "1",
+    "sdt": "0362247404",
+    "tentk": "hiepma02",
+    "pass": "phuonglinh"
+  },
+  {
+    "_id": "vn44ei0RXVyi9Tf7Fpy5",
+    "_created": "2026-05-02T08:12:38.619510Z",
+    "_updated": "2026-05-02T08:12:38.619510Z",
+    "tentk": "VanutBCR123",
+    "sdt": "0939748075",
+    "pass": "Ut123456@",
+    "permisson": "0",
+    "hoten": "NGUYEN VAN UT"
+  },
+  {
+    "_id": "vyFwNfbUXh8Qm6AZwI6v",
+    "_created": "2026-05-01T08:20:42.329145Z",
+    "_updated": "2026-05-01T08:20:42.329145Z",
+    "permisson": "0",
+    "hoten": "Đoàn",
+    "sdt": "0938992824",
+    "tentk": "Hiền",
+    "pass": "hien79"
+  },
+  {
+    "_id": "wigYzD4l7wSKxph1QYkw",
+    "_created": "2026-05-02T17:20:21.140635Z",
+    "_updated": "2026-05-02T17:20:21.140635Z",
+    "permisson": "0",
+    "hoten": "VU HONG CHOI",
+    "tentk": "123789",
+    "sdt": "0918054128",
+    "pass": "Ductroi1987"
+  },
+  {
+    "_id": "xJWKdXf1UwakNYUbiwP4",
+    "_created": "2026-05-05T17:44:27.884643Z",
+    "_updated": "2026-05-05T17:44:27.884643Z",
+    "pass": "nghia2408",
+    "tentk": "nnnnn11111",
+    "sdt": "0705315360",
+    "permisson": "0",
+    "hoten": "le huynh huu nghia"
+  },
+  {
+    "_id": "xOJmbTRucMV1qczk8TUS",
+    "_created": "2026-05-01T08:48:39.036804Z",
+    "_updated": "2026-05-01T08:48:39.036804Z",
+    "permisson": "0",
+    "hoten": "thienlay",
+    "pass": "89897788",
+    "sdt": "0377351508",
+    "tentk": "laythien"
+  },
+  {
+    "_id": "xgPtX9psLV9b667roque",
+    "_created": "2026-05-04T09:12:27.289601Z",
+    "_updated": "2026-05-04T09:30:20.240323Z",
+    "pass": "dangductri2009",
+    "sdt": "0963412810",
+    "tentk": "dangductri",
+    "hoten": "Đặng Đức Sơn",
+    "permisson": "1"
+  },
+  {
+    "_id": "xp2girZLGCRCTS0Ui0n4",
+    "_created": "2026-05-04T15:39:07.738042Z",
+    "_updated": "2026-05-04T15:39:07.738042Z",
+    "permisson": "0",
+    "hoten": "huynh van vo",
+    "pass": "vanvo545811",
+    "sdt": "0869545811",
+    "tentk": "huynhvo19930"
+  },
+  {
+    "_id": "xvI3gFNe1SH4BxVIpwz4",
+    "_created": "2026-05-06T18:47:14.374351Z",
+    "_updated": "2026-05-06T18:50:42.153693Z",
+    "tentk": "Dungkopin123",
+    "sdt": "0376712198",
+    "pass": "21102006",
+    "hoten": "Nguyễn Đăng Dũng",
+    "permisson": "1"
+  },
+  {
+    "_id": "xzCaNhtatyQCiA94wRuv",
+    "_created": "2026-05-08T15:35:36.216761Z",
+    "_updated": "2026-05-08T15:35:36.216761Z",
+    "permisson": "0",
+    "hoten": "Nguyễn Trường Giang",
+    "pass": "trgiang123@",
+    "tentk": "trgiang0902",
+    "sdt": "0398504577"
+  },
+  {
+    "_id": "xzgpdl1WlVYy7Z7rCRTJ",
+    "_created": "2026-05-14T14:26:49.391538Z",
+    "_updated": "2026-05-14T14:26:49.391538Z",
+    "pass": "123456",
+    "sdt": "0985855688",
+    "tentk": "tigertest68",
+    "permisson": "0",
+    "hoten": "nguyen van sang"
+  },
+  {
+    "_id": "y0iG6bmuRBQCRl6szN6p",
+    "_created": "2026-05-07T13:47:30.047466Z",
+    "_updated": "2026-05-07T13:47:30.047466Z",
+    "tentk": "Giahan79",
+    "sdt": "0776917403",
+    "pass": "264324309",
+    "permisson": "0",
+    "hoten": "phamDonalquan"
+  },
+  {
+    "_id": "yBbhEaOsuTqRGDDCZeOF",
+    "_created": "2026-05-11T08:54:18.622947Z",
+    "_updated": "2026-05-11T08:57:29.090607Z",
+    "sdt": "0987654321",
+    "tentk": "bcrthua500m",
+    "pass": "123123",
+    "hoten": "NGUYEN HUY PHU",
+    "permisson": "1"
+  },
+  {
+    "_id": "yKKC4k5CGqaXFp7f0nLc",
+    "_created": "2026-05-03T07:37:09.269177Z",
+    "_updated": "2026-05-03T07:37:09.269177Z",
+    "permisson": "0",
+    "hoten": "NGUYEN VAN MANH",
+    "pass": "1234.manh",
+    "sdt": "0375868663",
+    "tentk": "Manhroyal983"
+  },
+  {
+    "_id": "yvcRGPGlmAVoS0GvBGu9",
+    "_created": "2026-05-08T01:57:39.515826Z",
+    "_updated": "2026-05-08T01:57:39.515826Z",
+    "pass": "den123",
+    "tentk": "Ph190393",
+    "sdt": "0338996769",
+    "hoten": "Tran dinh phuoc",
+    "permisson": "0"
+  },
+  {
+    "_id": "zETSjSN2XBIxgObWFzjt",
+    "_created": "2026-05-06T15:50:47.655523Z",
+    "_updated": "2026-05-06T15:50:47.655523Z",
+    "permisson": "0",
+    "hoten": "TRAN HOAI AN",
+    "pass": "22042008An#",
+    "tentk": "baongu3b",
+    "sdt": "0769347522"
+  },
+  {
+    "_id": "zizMn2lEM36qWnjPBseV",
+    "_created": "2026-05-06T12:01:27.187502Z",
+    "_updated": "2026-05-06T12:40:42.395088Z",
+    "pass": "thanhtuan1",
+    "tentk": "tuantienti92",
+    "sdt": "0963169738",
+    "hoten": "TRAN THANH TUAN",
+    "permisson": "1"
+  }
+]
