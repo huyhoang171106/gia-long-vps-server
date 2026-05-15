@@ -201,11 +201,14 @@ wss.on('connection', (ws) => {
     switch (msg.type) {
       case 'subscribe': {
         const room = msg.path;
-        // Leave old room
-        if (info.room && roomUsers.has(info.room)) {
-          roomUsers.get(info.room).delete(info.username);
-          if (roomUsers.get(info.room).size === 0) roomUsers.delete(info.room);
-          else sendPresenceList(info.room);
+        // Nếu subscribe cùng phòng, bỏ qua leave để tránh flicker 0→1
+        if (room !== info.room) {
+          // Leave old room
+          if (info.room && roomUsers.has(info.room)) {
+            roomUsers.get(info.room).delete(info.username);
+            if (roomUsers.get(info.room).size === 0) roomUsers.delete(info.room);
+            else sendPresenceList(info.room);
+          }
         }
         // Join new room
         info.room = room;
