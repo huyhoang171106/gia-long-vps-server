@@ -262,7 +262,6 @@ wss.on('connection', (ws) => {
     if (info && info.room && roomUsers.has(info.room)) {
       roomUsers.get(info.room).delete(info.username);
       if (roomUsers.get(info.room).size === 0) roomUsers.delete(info.room);
-      else sendPresenceList(info.room);
     }
     userSockets.delete(ws);
   });
